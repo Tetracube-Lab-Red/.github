@@ -5,7 +5,15 @@
 Welcome to Tetracube-Lab.Red, where a single developer's passion for enhancing everyday life through technology comes to life. This GitHub organization is maintained 
 to share projects focused home and life automations. 
 
-From smart home systems to productivity tools, you’ll find a range of projects designed to streamline and enrich your daily routines.
+From smart home systems to productivity tools, you'll find a range of projects designed to streamline and enrich your daily routines.
+
+## The concept of Hub
+
+The *Hub*, a buzzword repeated around all projects and services published in this repository, is the rappresentation of the hardware and infrastructure where 
+all services will run.
+
+If you install the services on a RaspberryPi or in a cloud provider, these will be called hub. Around the hub you can install all, or some, services that
+you find in this organization.
 
 ## Licenses
 
