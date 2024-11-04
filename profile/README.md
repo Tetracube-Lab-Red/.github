@@ -15,6 +15,9 @@ all services will run.
 If you install the services on a RaspberryPi or in a cloud provider, these will be called hub. Around the hub you can install all, or some, services that
 you find in this organization.
 
+The first service, hub-central infact, is the service that has the main access controller for all running services. This is the only required project to run correctly
+all platform elements and, obviously, the mobile application.
+
 ## Licenses
 
 All projects within this organization are released under the MIT License, making them open-source and free to use, modify, and distribute. Please refer to the LICENSE file in each repository for more information.
